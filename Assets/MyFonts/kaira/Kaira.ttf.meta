@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ce94a7f13acd70b4fb6432f4a76eb2b4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Kaira
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 77b1d26e1c41dd04e8f09196756aa58e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

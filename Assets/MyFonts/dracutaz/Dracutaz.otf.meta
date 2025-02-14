@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c925ed7a015c72643900c891caa323ca
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Dracutaz
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 63e7813f211dfe240a1a5999b5c479f7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
